@@ -1,7 +1,11 @@
-# Hi there, I'm Erickbenright! 👋
+# *𝛁𝚰𝐒𝚰𝚯𝚴-𝚾𝚳𝐃*
 
-<!-- Add a short bio or introduction about yourself -->
-I'm a passionate developer with a keen interest in web development, open-source contributions, and learning new technologies. 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=HACKER+MD+WHATSAPP+BOT+V2" alt="">
+</p>
+<p align="center">
+<a href="https://github.com/Erickbenright"><img title="Author" src="https://files.catbox.moe/ewpetl.jpeg?style=for-the-badge&logo=github"></a>
 
 ## 🚀 About Me
 
